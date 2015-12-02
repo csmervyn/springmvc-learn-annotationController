@@ -1,0 +1,6 @@
+org\github\mervyn\springmvc\controller\RequestParametersAndHeaderValues.class
+org\github\mervyn\springmvc\controller\URITemplatePatterns.class
+org\github\mervyn\springmvc\controller\HelloWorldController.class
+org\github\mervyn\springmvc\controller\BindingRequestParameters.class
+org\github\mervyn\springmvc\controller\NarrowRequestMapping.class
+org\github\mervyn\springmvc\entity\User.class
